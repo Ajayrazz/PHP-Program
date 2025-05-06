@@ -1,6 +1,6 @@
 <?php
 // Function that accepts array by value
-function doubleValue($arr) {
+function doubleValue(&$arr) {
     // Double each number in the array
     for ($i = 0; $i < count($arr); $i++) {
         $arr[$i] *= 2;
