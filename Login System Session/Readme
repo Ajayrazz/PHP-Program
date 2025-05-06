@@ -1,0 +1,6 @@
+🛠 1. Setup: Create Three Files
+login.php — Login form
+
+welcome.php — Welcome page after login
+
+logout.php — Logout and destroy session

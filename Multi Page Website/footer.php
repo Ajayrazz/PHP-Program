@@ -1,0 +1,6 @@
+<footer>
+        <hr>
+        <p>&copy; <?php echo date("Y"); ?> My Website. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
